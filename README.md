@@ -1,0 +1,1 @@
+# calcu-teorema-role
